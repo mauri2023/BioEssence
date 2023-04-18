@@ -1,13 +1,13 @@
-Nombre de la Marca: ORGANIC CARE+
+Nombre de la Marca: BIO ESSENCE
 
 
 Descripcion de productos: Productos de higiene y cuidado personal elaborados con productos orgánicos a partir de materias primas renovables y bajo estrictos procesos de producción limpios que permiten garantizar la protección del medio ambiente y la autosustentabilidad.
+
 Mision: respecto al consumidor, conciencia medioambiental.
 
-
 Público destinatario: Para personas de todas las edades y partes del mundo. Nuestros productos están dirigidos a personas preocupadas por su bienestar y su salud, que buscan alternativas naturales y sostenibles para el cuidado de su piel y su cuerpo. Nuestra tienda es ideal para aquellos que buscan una opción de cuidado personal libre de crueldad animal y con conciencia social, que respete la biodiversidad y la sostenibilidad del planeta.
-Oferta de productos:
 
+Oferta de productos:
 
 Higiene corporal:
 a) Jabones de cuerpo
