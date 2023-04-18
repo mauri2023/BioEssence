@@ -36,3 +36,7 @@ a) Esponjas vegetales
 Mauricio Ariel Juárez.
 De 37 años de edad, oriundo de Córdoba, amante de los viajes, el futbol y la naturaleza, de profesión abogado, actualmente
 propietario de un Estudio Jurídico que asesora empresas vinculadas con servicios de salud.
+
+Mirko Leonel Torres.
+Tengo 21 años, soy de Pergamino, provincia de Buenos Aires. Actualmente me dedico a lo que es reparación de celulares y PC, en mis tiempos libres
+me gusta mucho jugar al fútbol y al pádel.
