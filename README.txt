@@ -63,3 +63,6 @@ Tengo 21 años, soy de Pergamino, provincia de Buenos Aires. Actualmente me dedi
 
 Gabriel Mascaretti.
 Tengo 26 años, soy de Wilde, provincia de Buenos Aires. Soy contador Público y Administrador de Empresas, trabajo en el ministerio de Justicia auditando a Ford, Fiat y Yamaha. Asímismo, tengo una sociedad con mis hermanos y nos dedicamos a la venta mayorista y minorista de alimentos y accesorios para mascotas.
+
+Federico Naccarato 
+Tengo  33 años de edad, de la ciudad de la Plata , amante de la tecnología y los deportes como el fútbol y el pádel. Actualmente trabajo de administrativo en una distribuidora de diarios y revistas.  
