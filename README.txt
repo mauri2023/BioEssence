@@ -56,3 +56,5 @@ Tengo 26 años, soy de Wilde, provincia de Buenos Aires. Soy contador Público y
 
 Federico Naccarato 
 Tengo  33 años de edad, de la ciudad de la Plata , amante de la tecnología y los deportes como el fútbol y el pádel. Actualmente trabajo de administrativo en una distribuidora de diarios y revistas.  
+
+Link trello: [https://trello.com/b/0HhfvZfn/bioessence]
