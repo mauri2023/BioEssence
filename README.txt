@@ -16,6 +16,8 @@ Finalmente, BIO ESSENCE ofrece esponjas vegetales para el cuidado corporal. Esta
 
 En resumen, BIO ESSENCE es una marca comprometida con la producción de productos de cuidado personal sostenibles y respetuosos con el medio ambiente. La marca ofrece una amplia variedad de productos para satisfacer todas las necesidades de cuidado personal, desde productos de higiene corporal y cuidado facial hasta productos para el cuidado de la barba y del cabello. 
 
+Nuestro publico objetivo son las personas conscientes del medio ambiente, aquellas personas interesadas en productos naturales, y aquellas personas preocupadas por su salud. La marca se dirige principalmente a adultos jóvenes y adultos de mediana edad, es decir, a personas de entre 25 y 50 años ubicados a lo largo de toda Argentina.
+
 
 Sitios web similares existentes, relacionados o que sean de interés:
 
@@ -50,7 +52,7 @@ Mirko Leonel Torres.
 Tengo 21 años, soy de Pergamino, provincia de Buenos Aires. Actualmente me dedico a lo que es reparación de celulares y PC, en mis tiempos libres. me gusta mucho jugar al fútbol y al pádel.
 
 Gabriel Mascaretti.
-Tengo 26 años, soy de Wilde, provincia de Buenos Aires. Soy contador Público y Administrador de Empresas, trabajo en el ministerio de Justicia auditando a Ford, Fiat y Yamaha. Asímismo, tengo una sociedad con mis hermanos y nos dedicamos a la venta mayorista y minorista de alimentos y accesorios para mascotas.
+Tengo 26 años, soy de Wilde, provincia de Buenos Aires. Soy contador Público y Administrador de Empresas, trabajo en el ministerio de Justicia auditando a Ford, Fiat y Yamaha. Asímismo, tengo una sociedad con mis hermanos y nos dedicamos a la venta mayorista y minorista de alimentos y accesorios para mascotas. Juego al fútbol desde chico y actualmente juego torneos amateurs de futbol 11.
 
 Federico Naccarato 
 Tengo  33 años de edad, de la ciudad de la Plata , amante de la tecnología y los deportes como el fútbol y el pádel. Actualmente trabajo de administrativo en una distribuidora de diarios y revistas.  
