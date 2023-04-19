@@ -16,4 +16,8 @@ git push origin master : para terminar de subir archivos al repositorio remoto.
 
 ---------------------------0-----------------------------------------
 
-para clonar  : git clone "direccionDelRepositorio" ej : https://github.com/F3d390/primerRepositorio.git
+ git clone "direccionDelRepositorio" ej : https://github.com/F3d390/primerRepositorio.git : para clonar un repositorio 
+ remoto con uno local , aclarando que si el repositorio remoto es privado se requiere autorización. 
+
+ git pull origin master : para actualizar los cambios del repositorio remoto al local.
+ 
