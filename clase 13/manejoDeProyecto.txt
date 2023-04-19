@@ -23,4 +23,13 @@ git branch : para ver la rama de produccion
 
 git branch "nombreDeLaRama": para crear nueva rama
 
+git checkout "nombreDeLaRama" : para posicionarnos en la rama que queremos estar.
+
+git checkout "nombreDeLaRamaALaQueQueremosMoverLosCambios"
+
+git marge "nombreDeLaRamaALaQueQuieroIrABuscarLosCambios"
+
+
+
+
  
