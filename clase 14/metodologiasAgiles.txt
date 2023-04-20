@@ -1,0 +1,35 @@
+Metodologia agiles : 
+1. Metodologia en cascada: Donde noe existe la incertidumbre (1985).
+    Esta todo pactado de antemano. Tiene poca capacidad de adaptacion. 
+    Tambien conocida como secuencial.
+2001 - Manifiesto agil : Compromiso publico para mejorar las formas de desarrollar.
+
+metodologiaAgil : 
+1. Scrum
+2. Extrem programing (XP)
+3. FDD
+4. Crystal
+
+Año 1994 "the chaos report" : Un estudio realizado de diferentes proyectos que solo el 16% termino con exito.
+Las casusa se debieron a cambios en los requierimientos originales y no haber involucrado a los usuarios del sistema
+durante la fase de desarrollo.
+
+SCRUM : Se realiza entre 4 y 8 usuarios. Se designa al PRODUCT OWNER que representa la voz del cliente.
+Se ocupa que el equipo trabaje de forma adecuada.
+Escribe la historia de usuarios , las prioriza y las coloca en el PRODUCT BACKLOG.
+
+SCRUM MASTER : Es un facilitador , hace de veedor. Responsable de controlar el tiempo, las conversaciones.
+
+Equipo tecnico : 100% a desarrollar el producto. Es horizontal , autoorganizado y multidiciplinario. Se trabaja codo a codo en un
+hambiente armonioso. Tiene de 5 a 9 integrantes. 
+
+STAK HOLDERS : Utiliza el sistema y se ven afectados por el mismo.
+
+PRODUCT BACKLOG : Todos los requisitos  y la data para el desarrollo.
+
+SPRINT BACKLOG : Conjunto de requisitos que seran desarrollados en el SPRINT.
+
+SPRINT : Se lleva a cabo en el trabajo y el tiempo lo define el desarrollador o equipo tecnico , guiados por el SCRUM MASTER.
+
+
+            

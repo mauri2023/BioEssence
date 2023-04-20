@@ -7,14 +7,15 @@ git config --global user.email "mail" : para ponerle el mail a todo.
 git remote add origin "el nombre del repositorio que se copia de github" ej : https://github.com/F3d390/primerRepositorio.git
 git remote -v : para chequear que el anterior se realizo bien.
 
-git pull origin master : para actualizar los cambios del repositorio remoto al local.
-
 git clone "direccionDelRepositorio" ej : https://github.com/F3d390/primerRepositorio.git : para clonar un repositorio 
 remoto con uno local , aclarando que si el repositorio remoto es privado se requiere autorización. 
 
+git pull origin master : para actualizar los cambios del repositorio remoto al local.
+
 git add "nombreDelArchivo" : para agregar archivo al repositorio local
-git status : para ver el estado de los archivos.
 git add . : para agregar todos los archivos.
+
+git status : para ver el estado de los archivos.
 
 git commit -m "nombreDelComit" : subir el paquete de archivos al repositorio github(online).
 git push origin master : para terminar de subir archivos al repositorio remoto.
