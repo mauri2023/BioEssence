@@ -235,5 +235,55 @@ button:hover {
   margin-top: 15px;
 }
 
-@media (min-width: 768px) {
-  
+/* CARRITO DE COMPRAS*/
+
+.cart-style {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: Arial, sans-serif;
+  background-color: whitesmoke;
+}
+h1 {
+  text-align: center;
+}
+table {
+  border-collapse: collapse;
+   border-width: medium;
+  margin: 20px 0;
+  text-align: center;
+}
+th, td {
+  padding: 10px;
+  border: 1px solid #000000;
+}
+th {
+  background-color: #ccd6a6;
+  font-weight: bold;
+}
+.total {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid #0c0101;
+  padding: 20px;
+  text-align: center;
+  margin-left: 20px;
+}
+.total h2 {
+  margin: 0;
+}
+.total p {
+  margin: 10px 0;
+}
+.total button {
+  background-color: #00050a;
+  color: #ffffff;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
