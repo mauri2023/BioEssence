@@ -7,10 +7,12 @@
 /* Top Header Mobile */
 
 .top-header {
-  background-color: blue;
+  background-color: #f7eddb;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  color: #1a1a1a;
+  font-weight: bold;
 }
 
 .informacion-adicional-top-header {
@@ -26,7 +28,8 @@
 }
 
 .información-adicional-th1 {
-  margin-bottom: -15px;
+  margin-top: 10px;
+  margin-bottom: 5px;
 }
 
 /* Header Mobile */
@@ -89,6 +92,7 @@ header {
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   padding: 20px;
+  text-align: center;
 }
 
 .producto-img-destacados {
@@ -122,3 +126,19 @@ button {
 button:hover {
   background-color: #555;
 }  
+
+/* Footer */
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 50px 0px 50px;
+  background-color: #ccd6a6;
+}
+
+.list-footer {
+  list-style: none;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
