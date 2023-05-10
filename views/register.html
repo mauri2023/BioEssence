@@ -4,9 +4,22 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Registro</title>
 </head>
 <body>
+
+    <form>
+        <label>Nombre:</label>
+        <input type="text" name="nombre" required>
+        <span class="error">Por favor, ingresa tu nombre.</span><br>
+        <label>Correo electrónico:</label>
+        <input type="email" name="email" required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$">
+        <span class="error">Por favor, ingresa un correo electrónico válido.</span><br>
+        <label>Contraseña:</label>
+        <input type="password" name="contraseña" required>
+        <span class="error">Por favor, ingresa una contraseña.</span><br>
+        <input type="submit" value="Registrarse">
+      </form>
     
 </body>
 </html>
