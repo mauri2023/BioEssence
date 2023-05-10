@@ -4,22 +4,29 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/styles.css" rel="stylesheet">
     <title>Registro</title>
 </head>
 <body>
 
-    <form>
-        <label>Nombre:</label>
-        <input type="text" name="nombre" required>
-        <span class="error">Por favor, ingresa tu nombre.</span><br>
-        <label>Correo electrónico:</label>
-        <input type="email" name="email" required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$">
-        <span class="error">Por favor, ingresa un correo electrónico válido.</span><br>
-        <label>Contraseña:</label>
-        <input type="password" name="contraseña" required>
-        <span class="error">Por favor, ingresa una contraseña.</span><br>
-        <input type="submit" value="Registrarse">
-      </form>
+
+
+
+
+    <div class="contenedor-registro">
+        <div class="banner-registro">
+          <img src="./images/bannner-reg-formulario.png" alt="Reg-Formulario-img">
+        </div>
+        <form class="reg-formulario">
+          <label for="nombre">Nombre:</label>
+          <input type="text" name="nombre" id="nombre" placeholder="Nombre" required>
+          <label for="email">Correo electrónico:</label>
+          <input type="email" name="email" id="email" placeholder="Correo electrónico" required>
+          <label for="contraseña">Contraseña:</label>
+          <input type="password" name="contraseña" id="contraseña" placeholder="Contraseña" required>
+          <input type="submit" value="Finalizar Registro">
+        </form>
+      </div>
     
 </body>
 </html>

@@ -194,3 +194,47 @@ button:hover {
   font-weight: bold;
   vertical-align: center;
 }
+
+
+
+
+/* Pagina de registros */
+
+.contenedor-registro {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 150px;
+  background-color: whitesmoke;
+}
+
+.Reg-Formulario-img {
+  max-width: 100%;
+  height: auto;
+}
+
+.reg-formulario label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.reg-formulario input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.reg-formulario input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+}
+
+.form reg-formulario {
+  padding: 5px;
+}
+
+
