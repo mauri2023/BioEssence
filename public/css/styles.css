@@ -197,27 +197,44 @@ button:hover {
 
 /* Pagina de registros */
 
+.titulo-formulario-reg {
+  color: #1a1a1a;
+}
+
 .contenedor-registro {
-  display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-image: url('./public/images/mastercard.png');
+  background-color: whitesmoke;
+  padding: 50px;
 }
 
 .imagen-registro {
   display: none;
 }
 
-
 .reg-formulario label,
 .reg-formulario input {
   display: block;
-  margin-bottom: 10px;
-  text-align: center;
+  margin-bottom: 15px;
   width: 100%;
+  border-radius: 10px;
+  font-size: 20px;
+  border-color: transparent;
+  padding: 15px;
 }
+
+.boton-de-registro {
+  color: white;
+  background-color: #0a4eac;
+  padding: 5px;
+}
+
+.reg-formulario {
+  margin-top: 15px;
+}
+
 
 /*MOBILE .contenedor-registro {
   display: flex;
