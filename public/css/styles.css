@@ -297,26 +297,27 @@ th {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+  margin: 20px 0px 20px 0px;
 }
 
 .formulario-login {
-	width: 80%;
+  text-align: center;
+	width: 90%;
 	max-width: 400px;
 	background: white;
-	border-radius: 5px;
-	padding: 20px;
-	box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
 }
 
 .formulario-login input {
 	width: 100%;
-	margin-bottom: 10px;
+	margin-bottom: 15px;
 	padding: 10px;
 	border: none;
 	border-radius: 5px;
+  background-color: whitesmoke;
 }
 
 .formulario-login button {
+  width: 90%;
 	background: #4CAF50;
 	color: white;
 	border: none;
@@ -332,9 +333,11 @@ th {
 .mensaje-login {
 	text-align: center;
 	margin-top: 15px;
+  font-size: 14px;
 }
 
 .mensaje-login a {
-	color: #4CAF50;
-	text-decoration: none;
+	color: red;
+  text-decoration: underline;
+  font-size: 14px;
 }
