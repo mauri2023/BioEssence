@@ -21,16 +21,29 @@
       <p>Teléfono de Contacto</p>
     </div>
     <div class="icono-de-inicio-de-sesión">
-      <i class="fa-solid fa-right-to-bracket"></i>
+      <p> Iniciar Sesión </p>
+      <a href="/login"><i class="fa-solid fa-right-to-bracket"></i></a>
     </div>
   </div>
 
   <header>
-    <div class="menu-burger">
-      <i class="fas fa-bars"></i>
+    <div class="menu">
+      <button id="menu-burger">☰</button>
+      <div id="sidebar">
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Tienda</a></li>
+          <li><a href="#">Carrito</a></li>
+          <li><a href="#">Iniciar Sesión</a></li>
+          <li><a href="#">Registrarse</a></li>
+          <li><a href="#">Contacto</a></li>
+        </ul>
+      </div>
+    </div>
+
     </div>
     <div class="logo">
-      <img src="./images/logo-mobile-blanco.png" alt="LogoMobile">
+      <a href="/"><img src="./images/logo-mobile-blanco.png" alt="LogoMobile"></a>
     </div>
     <div class="icono-de-carrito">
       <i class="fas fa-shopping-cart"></i>
@@ -64,7 +77,7 @@
     <footer class="footer-container">
       <div class="links-de-pagina">
         <ul class="list-footer">
-          <li><a href="#">Nosotros</a></li>
+          <li><a href="#  ">Nosotros</a></li>
           <li><a href="#">Políticas de privacidad</a></li>
           <li><a href="#">Tienda</a></li>
           <li><a href="#">Más información</a></li>
@@ -86,6 +99,30 @@
         </div>
       
     </footer>
+    <script>
+// Obtén una referencia al botón del menú burger y a la barra lateral
+var menuBurger = document.getElementById('menu-burger');
+var sidebar = document.getElementById('sidebar');
+
+// Agrega el evento 'click' al botón del menú burger
+menuBurger.addEventListener('click', function() {
+  if (sidebar.style.left === '-300px') {
+    sidebar.style.left = '0';
+  } else {
+    sidebar.style.left = '-300px';
+  }
+});
+
+// Agrega el evento 'click' al documento
+document.addEventListener('click', function(event) {
+  var target = event.target;
+
+  // Verifica si el elemento clicado no es el botón del menú burger ni está dentro de la barra lateral
+  if (target !== menuBurger && !sidebar.contains(target)) {
+    sidebar.style.left = '-300px';
+  }
+});
+    </script>
 </body>
 
 </html>

@@ -32,6 +32,13 @@ a {
   margin-left: 20px;
 }
 
+.icono-de-inicio-de-sesión p {
+  display: inline-flex;
+  justify-content: space-between;
+  margin: 0px 10px 0px 0px;
+  vertical-align: center;
+}
+
 .icono-de-inicio-de-sesión {
   margin-left: auto;
   margin-right: 20px;
@@ -345,3 +352,35 @@ th {
   text-decoration: underline;
   font-size: 14px;
 }
+
+/* Armado de Menú */
+
+.menu {
+  position: relative;
+}
+
+#sidebar {
+  position: absolute;
+  width: 250px;
+  background-color: #f1f1f1;
+  transition: left 0.3s ease;
+  left: -300px;
+}
+
+#sidebar ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#sidebar li {
+  padding: 10px;
+}
+
+#sidebar a {
+  text-decoration: none;
+}
+
+#menu-burger {
+  font-size: 24px;
+}
+
