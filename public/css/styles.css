@@ -8,6 +8,7 @@
 
 body {
   font-family: 'Poppins', sans-serif;
+  min-width: 300px;
 }
 
 a {
@@ -94,11 +95,11 @@ header {
 
 .productos-container {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   margin-top: 20px;
   background-color: whitesmoke;
   margin: 0;
-  padding: 50px;
+  padding: 25px;
 }
 
 .producto {
@@ -108,6 +109,7 @@ header {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   padding: 20px;
   text-align: center;
+  max-width: 250px;
 }
 
 .producto-img-destacados {
@@ -116,6 +118,10 @@ header {
   background-position: center;
   margin-bottom: 20px;
   object-fit:scale-down;
+}
+
+.boton-prod-container {
+  max-width: -webkit-fill-available;
 }
 
 h3 {
@@ -239,7 +245,7 @@ button:hover {
 
 .cart-style {
   margin: 0;
-  padding: 0;
+  padding: 30px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -247,10 +253,10 @@ button:hover {
   font-family: Arial, sans-serif;
   background-color: whitesmoke;
 }
-h1 {
+.carrito-h1 {
   text-align: center;
 }
-table {
+.tabla-carrito {
   border-collapse: collapse;
    border-width: medium;
   margin: 20px 0;
@@ -264,22 +270,20 @@ th {
   background-color: #ccd6a6;
   font-weight: bold;
 }
-.total {
+.total-carrito {
   display: flex;
   flex-direction: column;
   align-items: center;
-  border: 1px solid #0c0101;
-  padding: 20px;
   text-align: center;
-  margin-left: 20px;
+  margin-left: 200px;
 }
-.total h2 {
+.total-carrito h2 {
   margin: 0;
 }
-.total p {
+.total-carrito p {
   margin: 10px 0;
 }
-.total button {
+.total-carrito button {
   background-color: #00050a;
   color: #ffffff;
   padding: 10px;
